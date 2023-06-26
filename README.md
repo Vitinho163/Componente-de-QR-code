@@ -5,9 +5,9 @@ Esta é uma solução para o desafio [QR code component challenge da Frontend Me
 ## Sumário
 
 - [Visão geral](#overview)
-  - [Captura de tela](#screenshot)
+  - [Captura de tela](#Captura-de-tela)
   - [Links](#links)
-  - [Desenvolvido com](#built-with)
+  - [Desenvolvido com](#Desenvolvido-com)
   - [Author](#author)
 
 ## Visão geral
