@@ -28,6 +28,5 @@ Esta é uma solução para o desafio [QR code component challenge da Frontend Me
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [João Victor](https://github.com/Vitinho163)
+- Frontend Mentor - [@Vitinho163](https://www.frontendmentor.io/profile/Vitinho163)
